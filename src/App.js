@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Box1 />
-      <div style={{display:'flex', minHeight: '700px', borderStyle: 'solid', borderWidth: '0px 50px', borderColor: 'white', overFlow: 'hidden'}}>
+      <div style={{display:'flex', minHeight: '500px', borderStyle: 'solid', borderWidth: '0px 50px', borderColor: 'white', overFlow: 'hidden'}}>
         <Box2 />
         <Box3/>
       </div>
