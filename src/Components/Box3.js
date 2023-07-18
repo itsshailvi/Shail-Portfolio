@@ -6,7 +6,7 @@ export const Box3 = () => {
         <div style={{width: '33%'}}></div>
         <div>
             <h5> development is my passion </h5>
-            <h1 style={{fontSize:'65px', fontWeight:"800", fontFamily: "Montserrat", textTransform: 'capitalize'}}> Get to know me.</h1>
+            <h1 style={{fontSize:'65px', fontWeight:"800",color: '#3A3A3A', textTransform: 'capitalize'}}> Get to know me.</h1>
         </div>
     </div>
   )

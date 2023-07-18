@@ -12,7 +12,7 @@ const options = [
     'contact'
   ];
   
-  const ITEM_HEIGHT = 48;
+  const ITEM_HEIGHT = 60;
 
 export const Header = () => {
     const [anchorEl, setAnchorEl] = React.useState(null);
