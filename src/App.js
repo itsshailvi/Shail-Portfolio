@@ -4,6 +4,8 @@ import { Box1 } from './Components/Box1';
 import { Box2 } from './Components/Box2';
 import { Box3 } from './Components/Box3';
 import { Box4 } from './Components/Box4';
+import { Box5 } from './Components/Box5';
+import { Footer } from './Components/Footer';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
         <Box3/>
       </div>
       <Box4/>
+      <Box5/>
+      <Footer/>
     </div>
   );
 }
