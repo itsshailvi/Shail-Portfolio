@@ -6,6 +6,7 @@ import { Box3 } from './Components/Box3';
 import { Box4 } from './Components/Box4';
 import { Box5 } from './Components/Box5';
 import { Footer } from './Components/Footer';
+import { BoxMiddle } from './Components/BoxMiddle';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Box2 />
         <Box3/>
       </div>
+      <BoxMiddle/>
       <Box4/>
       <Box5/>
       <Footer/>

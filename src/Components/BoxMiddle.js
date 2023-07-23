@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Box5 = () => {
+export const BoxMiddle = () => {
   return (
     <div style={{background: 'white', height: "816.8px", borderStyle: "solid" , borderWidth : "0px 50px", borderColor: "white"}}>
-        Box5
+    
     </div>
   )
 }
