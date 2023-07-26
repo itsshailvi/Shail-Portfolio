@@ -22,7 +22,11 @@ export const Footer = () => {
     
     return (
         <div style={{ minHeight: '285px', marginTop: "50px", borderStyle: "solid", borderWidth: "0px 50px 50px 50px", borderColor: "white", display: 'flex' }}>
-            <div style={{ background: "#6f77f4", width: "67%" }}></div>
+            <div style={{ background: "#6f77f4", width: "67%" }}>
+                <h2 style={{color:'white'}}>Lets get Creative</h2>
+                <h3 style={{color: 'white'}}>All rights reserved</h3>
+                <h4 style={{color:'white'}}>Shailvi</h4>
+            </div>
             <div style={{ background: '#FFD324', width: "33%", display: "flex", justifyContent: "center", alignItems: "flex-start" , flexDirection: 'column',}}>
                 <div style={{paddingLeft: '15%', display: "flex", flexDirection: "column", alignItems: "flex-start"}}>
                 <div style={{paddingLeft: '14px' }}>

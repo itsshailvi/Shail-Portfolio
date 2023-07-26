@@ -8,6 +8,9 @@ export const Box4 = () => {
         </div>
         <div style={{width: '65%',background:"#6f77f4"}}>
             <h4 style={{color: "#ffffff"}}>Knowledge is every thing</h4>
+            <h1>My 
+                Skills.
+            </h1>
         </div>
     </div>
   )
